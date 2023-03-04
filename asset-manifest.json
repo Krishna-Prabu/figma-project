@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/figma-project/static/css/main.4ab9cf05.css",
+    "main.js": "/figma-project/static/js/main.1d0af1e2.js",
+    "static/js/787.74c89483.chunk.js": "/figma-project/static/js/787.74c89483.chunk.js",
+    "index.html": "/figma-project/index.html",
+    "main.4ab9cf05.css.map": "/figma-project/static/css/main.4ab9cf05.css.map",
+    "main.1d0af1e2.js.map": "/figma-project/static/js/main.1d0af1e2.js.map",
+    "787.74c89483.chunk.js.map": "/figma-project/static/js/787.74c89483.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab9cf05.css",
+    "static/js/main.1d0af1e2.js"
+  ]
+}
